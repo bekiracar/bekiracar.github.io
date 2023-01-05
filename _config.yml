@@ -1,0 +1,30 @@
+title: Ebu Bekir Acar
+author: Ebu Bekir Acar
+email: ebubekiracarx@gmail.com
+url: https://ebubekiracar.github.io
+baseurl: ""
+description: >
+  Siber Güvenlik , Linux ve programlama alanında edindiğim bilgileri paylaşıyorum .
+favicon: "favicon.png"
+
+# sosyal medya alanları
+twitter: http://www.twitter.com/0x364
+linkedin: http://www.linkedin.com/in/ebubekiracar
+github: http://www.github.com/ebubekiracar
+gitlab: http://gitlab.com/ebubekiracar
+youtube: https://www.youtube.com/channel/UC5xBgm9eHaH1NLMF0Cy1puA
+
+permalink: date
+
+google_analytics: G-JSD126FYJD
+
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jemoji

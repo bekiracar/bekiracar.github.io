@@ -1,0 +1,15 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.bas{
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+}
+.sosis{
+  font-size: 30px;
+}
+.postls {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
