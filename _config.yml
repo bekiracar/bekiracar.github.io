@@ -1,7 +1,7 @@
 title: Ebu Bekir Acar
 author: Ebu Bekir Acar
 email: ebubekiracarx@gmail.com
-url: https://ebubekiracar.github.io
+url: https://bekiracar.github.io/
 baseurl: ""
 description: >
   Siber Güvenlik , Linux ve programlama alanında edindiğim bilgileri paylaşıyorum .
@@ -16,7 +16,7 @@ youtube: https://www.youtube.com/channel/UC5xBgm9eHaH1NLMF0Cy1puA
 
 permalink: date
 
-google_analytics: G-JSD126FYJD
+google_analytics: G-awd
 
 
 markdown: kramdown
